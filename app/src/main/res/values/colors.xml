@@ -5,4 +5,6 @@
     <color name="textBlue">#264653</color>
     <color name="bgColor">#e9c46a</color>
     <color name="btnBgColor">#2a9d8f</color>
+    <color name="lightGrey">#b7b7a4</color>
+    <color name="tvColor">#777373</color>
 </resources>
